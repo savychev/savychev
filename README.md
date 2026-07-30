@@ -44,13 +44,13 @@ PR-based workflow.
 | Project | Stack | Wat / What |
 |---|---|---|
 | **[intec-ep-linguacards](https://github.com/savychev/intec-ep-linguacards)** | Spring Boot 3 · Spring Security · JWT · Flyway · MySQL | Backend voor een flashcard-app met JWT-auth, migraties en integratietests — mijn Intec-eindproject. |
-| **[JpaSchoolProject](https://github.com/savychev/JpaSchoolProject)** | JPA · Hibernate 6 · MySQL · JUnit | Gelaagde JPA-applicatie met OneToMany / ManyToOne / ManyToMany-relaties (School–Student–Teacher). |
+| **[jpa-school-project](https://github.com/savychev/jpa-school-project)** | JPA · Hibernate 6 · MySQL · JUnit | Gelaagde JPA-applicatie met OneToMany / ManyToOne / ManyToMany-relaties (School–Student–Teacher). |
 | **[Portfolio site](https://github.com/savychev/savychev.github.io)** | HTML · CSS · GitHub Pages | Mijn portfolio: [savychev.github.io](https://savychev.github.io). |
 
 **Java practice & fundamentals:**
-[icecream-shop](https://github.com/savychev/icecream-shop) (OOP: interfaces, inheritance, custom exceptions) ·
+[ice-cream-shop](https://github.com/savychev/ice-cream-shop) (OOP: interfaces, inheritance, custom exceptions) ·
 [java-advanced](https://github.com/savychev/java-advanced) (generics, lambdas, streams) ·
-[Java-Fundamentals](https://github.com/savychev/Java-Fundamentals) (12 structured topics)
+[java-fundamentals](https://github.com/savychev/java-fundamentals) (12 structured topics)
 
 ---
 
