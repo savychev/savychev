@@ -45,15 +45,10 @@ PR-based workflow.
 |---|---|---|
 | **[intec-ep-linguacards](https://github.com/savychev/intec-ep-linguacards)** | Spring Boot 3 · Spring Security · JWT · MySQL · Angular | Flashcard-webapp (backend + frontend): auth, decks, training flow, statistieken — mijn Intec-eindproject. |
 | **[online-course-api](https://github.com/savychev/online-course-api)** | Spring Boot · Spring Security · JWT · MySQL | REST API voor een cursusplatform: rollen, inschrijvingen, DTO's, global error handling. |
-| **[jpa-school-project](https://github.com/savychev/jpa-school-project)** | JPA · Hibernate 6 · MySQL · JUnit | Gelaagde JPA-applicatie met OneToMany / ManyToOne / ManyToMany-relaties (School–Student–Teacher). |
+| **[simple-banking-system](https://github.com/savychev/simple-banking-system)** | Core Java · JUnit | Console-banksysteem: gelaagde architectuur, custom exceptions, validatie — zonder frameworks. |
 | **[Portfolio site](https://github.com/savychev/savychev.github.io)** | HTML · CSS · GitHub Pages | Mijn portfolio: [savychev.github.io](https://savychev.github.io). |
 
-**Databases & persistence:**
-[beer-brewery-management](https://github.com/savychev/beer-brewery-management) (JPA/Hibernate, H2, JUnit) ·
-[jdbc-blog](https://github.com/savychev/jdbc-blog) (raw JDBC, repository/service layers)
-
 **Java practice & fundamentals:**
-[ice-cream-shop](https://github.com/savychev/ice-cream-shop) (OOP: interfaces, inheritance, custom exceptions) ·
 [java-advanced](https://github.com/savychev/java-advanced) (generics, lambdas, streams) ·
 [java-fundamentals](https://github.com/savychev/java-fundamentals) (12 structured topics)
 
