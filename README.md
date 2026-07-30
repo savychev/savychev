@@ -45,6 +45,7 @@ PR-based workflow.
 |---|---|---|
 | **[intec-ep-linguacards](https://github.com/savychev/intec-ep-linguacards)** | Spring Boot 3 · Spring Security · JWT · MySQL · Angular | Flashcard-webapp (backend + frontend): auth, decks, training flow, statistieken — mijn Intec-eindproject. |
 | **[online-course-api](https://github.com/savychev/online-course-api)** | Spring Boot · Spring Security · JWT · MySQL | REST API voor een cursusplatform: rollen, inschrijvingen, DTO's, global error handling. |
+| **[second-brain](https://github.com/savychev/second-brain)** | Java 21 · Maven · CI | Persoonlijk product: gedachten vastleggen met automatische classificatie (IDEA/TASK/LINK/NOTE), 17 tests, GitHub Actions. |
 | **[simple-banking-system](https://github.com/savychev/simple-banking-system)** | Core Java · JUnit | Console-banksysteem: gelaagde architectuur, custom exceptions, validatie — zonder frameworks. |
 | **[Portfolio site](https://github.com/savychev/savychev.github.io)** | HTML · CSS · GitHub Pages | Mijn portfolio: [savychev.github.io](https://savychev.github.io). |
 
