@@ -47,6 +47,11 @@ PR-based workflow.
 | **[JpaSchoolProject](https://github.com/savychev/JpaSchoolProject)** | JPA · Hibernate 6 · MySQL · JUnit | Gelaagde JPA-applicatie met OneToMany / ManyToOne / ManyToMany-relaties (School–Student–Teacher). |
 | **[Portfolio site](https://github.com/savychev/savychev.github.io)** | HTML · CSS · GitHub Pages | Mijn portfolio: [savychev.github.io](https://savychev.github.io). |
 
+**Java practice & fundamentals:**
+[icecream-shop](https://github.com/savychev/icecream-shop) (OOP: interfaces, inheritance, custom exceptions) ·
+[java-advanced](https://github.com/savychev/java-advanced) (generics, lambdas, streams) ·
+[Java-Fundamentals](https://github.com/savychev/Java-Fundamentals) (12 structured topics)
+
 ---
 
 ### 🎓 Opleiding / Education
